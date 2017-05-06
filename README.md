@@ -19,4 +19,5 @@
 - Bootstrap -> formatting
 
 ## Refactor TODOS:
-- Refactor user association integration test in post_spec
+- Add full name method for users
+- Refactor user association integration test in posts
