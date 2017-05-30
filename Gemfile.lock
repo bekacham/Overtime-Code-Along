@@ -257,6 +257,7 @@ DEPENDENCIES
   gritter (~> 1.2)
   jbuilder (~> 2.0)
   jquery-rails
+  kaminari (~> 1.0, >= 1.0.1)
   pg (~> 0.15)
   puma (~> 3.8, >= 3.8.2)
   pundit (~> 1.1)
